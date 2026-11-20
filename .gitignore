@@ -1,1 +1,5 @@
 .DS_Store
+Doc/
+*.pdf
+*.doc
+*.docx
