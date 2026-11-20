@@ -47,6 +47,12 @@ python3 tunkara_faq_bot.py
 
 with no key set, and it'll tell you it's running in fallback mode.
 
+## Demo
+
+A full session in offline fallback mode, including a question the FAQ can't answer:
+
+![TunkaraBot answering customer questions in the terminal](docs/demo-session.png)
+
 ## Example
 
 ```
